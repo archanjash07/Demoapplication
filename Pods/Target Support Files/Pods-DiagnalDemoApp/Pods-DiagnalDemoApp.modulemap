@@ -1,0 +1,6 @@
+framework module Pods_DiagnalDemoApp {
+  umbrella header "Pods-DiagnalDemoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
