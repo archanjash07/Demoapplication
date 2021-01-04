@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DiagnalDemoApp
 //
-//  Created by Klizo Solutions on 27/05/20.
+//  Created by DemoApp on 27/05/20.
 //  Copyright © 2020 Demo. All rights reserved.
 //
 
